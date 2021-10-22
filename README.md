@@ -1,4 +1,4 @@
-# EF Hand Evaluator (EFHE)
+# EF Hand Evaluator (EFHE) by iGEM Calgary
 Welcome to EFHE, an program able to predict if a protein sequence contains EF hands or not. It will also differentiate confirmed and potential EF hands. 
 
 ## Installation
